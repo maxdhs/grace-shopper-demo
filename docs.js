@@ -32,7 +32,8 @@ is gonna represent cart items or purchased items
 what is the price at time of adding to cart
 how many quantity of product did they put in cart
 
-
+ROUTES
+A whole bunch of routes...
 
 
 */
